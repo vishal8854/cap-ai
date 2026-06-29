@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" width="360" height="80">
+  <defs>
+    <linearGradient id="capGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1F4E79"/>
+      <stop offset="50%" style="stop-color:#2E75B6"/>
+      <stop offset="100%" style="stop-color:#00AEEF"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="8" width="64" height="64" rx="14" fill="url(#capGrad)"/>
+  <path d="M22 48 L36 22 L50 48 Z" fill="#FFFFFF" opacity="0.95"/>
+  <circle cx="36" cy="38" r="6" fill="#00AEEF"/>
+  <text x="82" y="36" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1F4E79">CAP</text>
+  <text x="82" y="58" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="300" fill="#00AEEF">AI</text>
+  <text x="140" y="48" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64748B" letter-spacing="1.5">ELECTION &amp; COMPLIANCE</text>
+</svg>
