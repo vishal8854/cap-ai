@@ -1,0 +1,14 @@
+streamlit>=1.32.0
+streamlit-option-menu>=0.3.6
+streamlit-aggrid>=1.0.5
+streamlit-extras>=0.4.0
+plotly>=5.18.0
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+networkx>=3.2.0
+matplotlib>=3.7.0
+altair>=5.0.0
+Pillow>=10.0.0
+reportlab>=4.0.0

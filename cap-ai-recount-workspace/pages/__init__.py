@@ -1,0 +1,1 @@
+"""CAP AI page modules."""
